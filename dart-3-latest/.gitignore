@@ -7,6 +7,7 @@
 # Node modules #
 ################
 node_modules/
+package-lock.json
 
 # Temporary and soon to be trash files #
 ########################################
