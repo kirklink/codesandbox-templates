@@ -1,0 +1,15 @@
+{
+	"name": "Dart",
+	"build": {
+		"dockerfile": "./Dockerfile",
+		"args": { "VARIANT": "3" }	
+	},
+	"customizations": { 
+		"vscode":  {
+			"extensions": [
+				"dart-code.dart-code",
+				"mhutchie.git-graph"
+			]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "verbose": false,
+    "watch": [
+        "src/",
+        "bin/",
+        "lib/",
+        "pkg/"
+    ],
+    "execMap": {
+        "dart": "dart"
+    },
+    "ext": "dart",
+    "exec": "dart -DBUILD_ENV=development run bin/main.dart"
+}
