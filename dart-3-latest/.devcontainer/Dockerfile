@@ -11,4 +11,3 @@ RUN mkdir -p $NVM_DIR \
     && nvm alias default $NODE_VERSION \
     && nvm use default
 ENV PATH="${NVM_DIR}/versions/node/v${NODE_VERSION}/bin/:${PATH}"
-RUN npm install --global nodemon

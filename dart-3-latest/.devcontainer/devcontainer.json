@@ -1,5 +1,5 @@
 {
-	"name": "Dart",
+	"name": "Dart 3 (latest)",
 	"build": {
 		"dockerfile": "./Dockerfile",
 		"args": { "VARIANT": "3" }	

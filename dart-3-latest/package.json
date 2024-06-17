@@ -7,5 +7,8 @@
     "scripts": {},
     "author": "",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies": {
+        "nodemon": "^3.1.3"
+    }
 }
