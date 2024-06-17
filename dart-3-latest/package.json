@@ -5,7 +5,7 @@
     "main": "",
     "directories": {},
     "scripts": {
-        "nodemon": "nodemon"
+        "dev": "nodemon"
     },
     "author": "",
     "license": "ISC",
